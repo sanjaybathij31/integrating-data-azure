@@ -2,7 +2,7 @@
 
 It generates random pollution data.
 
-To be used in conjunction with the Integrating Data in Azure course from Pluralsight.
+To be used in conjunction with the Integrating Data in Azure course.
 
 Author: Marcelo Pastorino
 Twitter: @evangeloper
