@@ -1,4 +1,4 @@
-# Integrating Data In Microsoft Azure - Pluralsight Course
+# Integrating Data In Microsoft Azure
 
 Data-driven decision making is the path to business success. 
 In this course, Integrating Data in Microsoft Azure, you will gain foundational knowledge to integrate data utilizing the power of Microsoft Azure. 
@@ -9,4 +9,3 @@ In this course, Integrating Data in Microsoft Azure, you will gain foundational 
 
 When you’re finished with this course, you will have the skills and knowledge needed to create data integration pipelines using some of the great tools that are part of the Azure ecosystem.
 
-[Course link](https://pluralsight.com/library/courses/microsoft-azure-data-integrating)
